@@ -1,9 +1,8 @@
 # Manager README
-Hey there, thanks for reading this... feel free to ping me in [twitter](https://twitter.com/matiasburni) or [linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
-
-If you're reading this probably worked/work/will-work together or you just want to copy my readme... in any case, I'm happy to have you here.
-
+Hey there... If you're reading this probably worked/work/will-work together or you just want to copy my readme... in any case, I'm happy to have you here.
 I'm here to learn, to add value, and enjoy the ride. I'm not a visionary and probably you're smarter than me... let’s start.
+
+Feel free to ping me in [twitter](https://twitter.com/matiasburni) or [linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
 
 ## About Me
 I'm Matias, I'm from Argentina, I'm married and I have 2 kids, I live in Barcelona (Spain), I'm a software engineer (more console than dev, build/release engineer or devops kind).
