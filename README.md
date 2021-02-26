@@ -52,14 +52,14 @@ In order of preference:
 
 Probably we're in different time zones, so my answer won't be instant in Slack or emails.
 
-## My assumptions
+## My Assumptions
 * You have good intentions
 * You're here to help and learn
 * You will ask if something is not clear
 * You won't monopolize a discussion
 * You understand that we have roles to add value from different perspectives
 
-## My calendar
+## My Calendar
 Public and available, and my business hours too. 
 Feel free to set up a 1:1 or to invite me to a meeting, if I can't I'll say "no" or reschedule.
 I'm in Europe and for most of my career, I worked with different time zones, mostly us-west, which means a 9hs shift. I learned to work in this environment (async, write, be clear, give context, consistent, etc)... but in some cases meetings are necessary.
