@@ -38,10 +38,21 @@ Side note... I consider that in the software industry we're a bit spoiled and th
 * English.
 
 ## Our Average Week
-We will have a  1:1 every week for at least 30 minutes. These meetings are for you first, and me second.
-* We both can add topics to the agenda, you have priority
-* These are not status meetings unless you want them to be. I prefer offline status reports.
-* Do not wait if you have something urgent. Slack me immediately, and we will get on a video call.
+We will have a  1:1 every week for at least 30 minutes. 
+* These meetings are for you first, and me second
+* These are not status meetings unless you want them to be. I prefer offline status reports
+* We both can add topics to the agenda, you have priority. We should add talking points prior to each meeting
+* Focus of this meeting: Help, get context, resolve issues (blockers), and grow career
+  * Personal connection
+  * How you're feeling at work
+  * Feedback (you and them)
+  * Improving team/company
+  * Learning/growth
+  * Work engagement
+  * Questions or information you need
+* Note: [200 One-On-One Meeting Questions for Managers](https://fellow.app/blog/2019/one-on-one-meeting-questions-for-managers/)
+
+Do not wait if you have something urgent. Slack me immediately, and we will get on a video call
 
 ## Communication
 In order of preference:
