@@ -28,12 +28,15 @@ I like people and technology. Being an engineer manager combines both. We're com
 * Customer-oriented. I want to understand what you need deeply.
 
 ## Weaknesses
-* I provide too much context before going to the point in some cases.
-* Recognition. I usually put people's achievements over mine, to the point that I rarely take credit for my achievements.
-* Clarity sharing strategies orally. Speaking, I could look messy even if my proposal is evident in my brain. I tend to write a lot because this process helps me organize the pitch. (if you see long agendas, don't worry is more a script than something for you).
-  * In some cases, being a non-English speaker doesn't help here.
-* I use too much "I don't know" when in fact, I know.
+* My personal recognition. 
+  * I usually put people's achievements over mine, to the point that I rarely take credit for my achievements.
+* Clarity sharing strategies orally. 
+  * Speaking, I could look messy even if my proposal is evident in my brain. I tend to write a lot because this process helps me organize the pitch. (if you see long agendas, don't worry is more a script than something for you).
+  * I provide too much context before going to the point in some cases.
+  * I use too much "I don't know" when in fact, I know.
+  * Being a non-English speaker doesn't help here.
 * English.
+  * As a non-English native speaker in some cases my vocabulary is very simple and my perspectives could sound a bit opinionated.
 
 ## Our Average Week
 We will have a  1:1 every week for at least 30 minutes. 
