@@ -1,40 +1,38 @@
 # Manager README
-Hey there... If you're reading this probably worked/work/will-work together or you just want to copy my readme... in any case, I'm happy to have you here.
-I'm here to learn, to add value, and enjoy the ride. I'm not a visionary and probably you're smarter than me... let’s start.
+Hey there... If you're reading this, probably worked/work/will-work together, or you want to copy my readme. In any case, I'm happy to have you here. I'm here to learn, add value, and enjoy the ride. I'm not a visionary, and probably you're smarter than me... let's start.
 
-Feel free to ping me in [twitter](https://twitter.com/matiasburni) or [linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
+Feel free to ping me on [Twitter](https://twitter.com/matiasburni) or [Linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
 
 ## About Me
-I'm Matias, I'm from Argentina, I'm married and I have 2 kids, I live in Barcelona (Spain), I'm a software engineer (more console than dev, build/release engineer or devops kind). I like [padel](https://www.youtube.com/watch?v=RGUOHfNaoco&ab_channel=WorldPadelTour) and mountain bike... ex frustrated [squash](https://www.youtube.com/watch?v=nTcvGK3k1IQ&ab_channel=PSASQUASHTV) player (lol). I speak Spanish/English/French and I'm learning Catalan. I'm not an english native speaker, so please be patient, corrections are accepted (this is how I grow). I'm an extrovert, but lately, with age, in my personal life, I became more selective with people.
+I'm Matias. I'm from Argentina, and I'm married; I have two kids, I live in Barcelona (Spain), I'm a software engineer (more console than dev, build/release engineer, or DevOps kind). I like [padel](https://www.youtube.com/watch?v=RGUOHfNaoco&ab_channel=WorldPadelTour) and mountain bike... ex frustrated [squash](https://www.youtube.com/watch?v=nTcvGK3k1IQ&ab_channel=PSASQUASHTV) player (lol). I speak Spanish/English/French, and I'm learning Catalan. I'm not an English native speaker, so please be patient; corrections are accepted (this is how I grow). I'm an extrovert, but lately, with age, I have become more selective with people in my personal life.
 
 ## My Values & Principles
-**Default to action**... I always find something to do, my TODO list is endless as my willingness. 
-A downside is that in some cases I start acting before thinking, even before identifying the issue that I'm trying to solve, which leads to iterate more than desired. I'm aware of this and I always loop my ideas/solutions with people around, feedback is a blessing.
+**Default to action**. 
+I always find something to do; my TODO list is endless as my willingness. A downside is that in some cases, I start acting before thinking, even before identifying the issue that I'm trying to solve, which leads to iterating more than desired. I'm aware of this, and I continuously loop my ideas/solutions with people around; feedback is a blessing.
 
-**Good vibes**
-I don't want to work in a rigid environment, I want to have space to say what I think and add value to topics. And with time I've learned that having good energy and being empathetic is a MUST for me, it's my way to promote a safe/cool environment. 
+**Good vibes**.
+I don't want to work in a rigid environment; I want space to say what I think and add value to topics. And with time, I've learned that having good energy and being empathetic is a MUST for me; it's my way to promote a safe/relaxed environment.
 
-**Relentless**
-I'm direct, with respect/carefulness but direct. If I see something and I consider that my feedback can help, I'll share it even if it's uncomfortable. I'm also relentless with myself, I constantly embrace feedback and try to improve my behavior/profile.
+**Relentless**.
+I'm direct, with respect/carefulness but direct. If I see something and consider that my feedback can help, I'll share it even if it's uncomfortable. I'm also relentless; I constantly embrace input and (try to) improve my behavior/profile.
 
-**Here to help**
-I will help you if you ask or if I detect that I can add value to your proposal. I'm self-organized and I'll always find time for others. I'm a strong believer that software is the result of social interaction (ex: PR reviews), and participating from different angles in that construction is key for achieving great results.
+**Here to help**.
+I will help you if you ask or detect that I can add value to your proposal. I'm self-organized, and I'll always find time for others. I believe that software results from social interaction (ex: PR reviews), and participating from different angles in that construction is vital for achieving outstanding results.
 
-**People first**
-I like people. I like technology. Being an engineer manager combines both. We're complex systems, with commonalities and differences, in constant evolution... reading what's around me is a challenge, people are my main challenge... projects come and go (don't misread this, I believe in excellence).
-Side note... I consider that in the software industry we're a bit spoiled and that in some cases we lose contact with reality, I try to be honest with my reality and transmit that to people.
+**People first**.
+I like people and technology. Being an engineer manager combines both. We're complex systems, with commonalities and differences, in constant evolution. Reading what's around me is a challenge; people are my main challenge. Projects come and go (don't misread this, I believe in excellence). Side note... I consider that in the software industry, we're a bit spoiled and that in some cases, we lose contact with reality; I try to be honest with my truth and transmit that to people.
 
-## Strengths
+## Strengths.
 * Hard worker. I will always try, over and over.
-* Create bonds across teams/organizations. I like connecting people and connecting to people. 
-* Customer-oriented. I want to understand deeply what you need.
+* Create bonds across teams/organizations. I like connecting people and connecting to people.
+* Customer-oriented. I want to understand what you need deeply.
 
 ## Weaknesses
-* In some cases I provide too much context before going to the point
-* Recognition. Normally I put people achievements over mine, to the point that I rarely take credit for my achievements
-* Clarity sharing strategies orally. Speaking I could look messy even if my proposal is clear in my brain. I tend to write a lot because this process helps me to organize the pitch. (if you see long agendas, don't worry is more a script than something for you).
-  * In some cases being a non-English speaker doesn't help here.
-* I use too much "I don't know" when in fact I know
+* I provide too much context before going to the point in some cases.
+* Recognition. I usually put people's achievements over mine, to the point that I rarely take credit for my achievements.
+* Clarity sharing strategies orally. Speaking, I could look messy even if my proposal is evident in my brain. I tend to write a lot because this process helps me organize the pitch. (if you see long agendas, don't worry is more a script than something for you).
+  * In some cases, being a non-English speaker doesn't help here.
+* I use too much "I don't know" when in fact, I know.
 * English.
 
 ## Our Average Week
@@ -111,7 +109,7 @@ ASSERTIVENESS
 * Stress Reactions: becoming argumentative, feelings of intimidation
 
 INSISTENCE
-* alert to new ideas, combines initiative with procedure, self-starting, but adaptable
+* alert to new ideas, combines initiative with procedure, self-starting but adaptable
 * Stress Reactions: resistance to routine, neglect of detail, weakened follow-through
 
 INCENTIVES
