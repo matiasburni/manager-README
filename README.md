@@ -87,7 +87,45 @@ I like giving it, and it's also part of my role. Always assume best intentions f
 Please be timely with feedback because I'll try to take action asap or enjoy it asap. :)
 
 ## Birkman Report
-* TODO
+
+[Complete report](Birkman_report.pdf)
+
+SOCIAL ENERGY
+* sociable, communicative, at ease in groups
+* Stress Reactions: withdrawal, over-eagerness to please the group
+
+PHYSICAL ENERGY
+* enthusiastic, energetic, forceful
+* Stress Reactions: edginess, feeling fatigued
+
+EMOTIONAL ENERGY
+* practical, logical, objective
+* Stress Reactions: detachment, getting discouraged
+
+SELF-CONSCIOUSNESS
+* frank and direct, unevasive, matter-of-fact
+* Stress Reactions: embarrassment, shyness, over-sensitivity
+
+ASSERTIVENESS
+* balance of assertion and discussion, authoritative yet agreeable, moderate in handling authority
+* Stress Reactions: becoming argumentative, feelings of intimidation
+
+INSISTENCE
+* alert to new ideas, combines initiative with procedure, self-starting, but adaptable
+* Stress Reactions: resistance to routine, neglect of detail, weakened follow-through
+
+INCENTIVES
+* trustful, loyal, service-oriented
+* Stress Reactions: becoming distrustful, becoming impractical
+
+RESTLESSNESS
+* easy to stimulate, responsive and attentive, adaptive
+* Stress Reactions: annoyance at delays, problems with self-discipline, inability to concentrate
+
+THOUGHT
+* direct and to-the-point, decisive, matter-of-fact
+* Stress Reactions: tendency to over-simplify, fear of making mistakes
+
 
 ## Did you like it?
 It's not my idea... believe me.
