@@ -1,10 +1,10 @@
 # Manager README
-Hey there... If you're reading this, probably worked/work/will-work together, or you want to copy my readme. In any case, I'm happy to have you here. I'm here to learn, add value, and enjoy the ride. I'm not a visionary, and probably you're smarter than me... let's start.
+Hey there... If you're reading this, you probably worked/work/will-work with me, or you want to copy my readme. In any case, I'm happy to have you here. I'm here to learn, add value, and enjoy the ride. I'm not a visionary, and probably you're smarter than me... let's start.
 
 Feel free to ping me on [Twitter](https://twitter.com/matiasburni) or [Linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
 
 ## About Me
-I'm Matias. I'm from Argentina, and I'm married; I have two kids, I live in Barcelona (Spain), I'm a software engineer (more console than dev, build/release engineer, or DevOps kind). I like [padel](https://www.youtube.com/watch?v=RGUOHfNaoco&ab_channel=WorldPadelTour) and mountain bike... ex frustrated [squash](https://www.youtube.com/watch?v=nTcvGK3k1IQ&ab_channel=PSASQUASHTV) player (lol). I speak Spanish/English/French, and I'm learning Catalan. I'm not an English native speaker, so please be patient; corrections are accepted (this is how I grow). I'm an extrovert, but lately, with age, I have become more selective with people in my personal life.
+I'm Matias. I'm from Argentina, and I'm married; I have three kids, I live in Barcelona (Spain), I'm a software engineer (more console than dev, build/release engineer, or DevOps kind). I like [padel](https://www.youtube.com/watch?v=RGUOHfNaoco&ab_channel=WorldPadelTour) and mountain bike... A frustrated [squash](https://www.youtube.com/watch?v=nTcvGK3k1IQ&ab_channel=PSASQUASHTV) player. I speak Spanish/English/French, and I'm learning Catalan. I'm not an native English speaker, so please be patient; corrections are accepted (this is how I grow). I'm an extrovert, but lately, with age, I have become more selective with people in my personal life.
 
 ## My Values & Principles
 **Default to action**. 
@@ -22,19 +22,25 @@ I will help you if you ask or detect that I can add value to your proposal. I'm 
 **People first**.
 I like people and technology. Being an engineer manager combines both. We're complex systems, with commonalities and differences, in constant evolution. Reading what's around me is a challenge; people are my main challenge. Projects come and go (don't misread this, I believe in excellence). Side note... I consider that in the software industry, we're a bit spoiled and that in some cases, we lose contact with reality; I try to be honest with my truth and transmit that to people.
 
+**Written ideas are better**.
+I prefer written ideas, it gives me time to think more deeply. My brain is a storm of ideas, so writing is good for me to organize my ideas and to understand other's ideas.
+
 ## Strengths.
 * Hard worker. I will always try, over and over.
-* Create bonds across teams/organizations. I like connecting people and connecting to people.
-* Customer-oriented. I want to understand what you need deeply.
+* Order. I make lists and I use clear visual tools to understand and share ideas.
+* Customer-oriented. I want to understand what you need.
+* Easy going. I pay a lot of attention to the mood of people, I try and then observe reactions, for me guaranteeing a good atmosphere is key, but don't get me wrong, I won't sugarcoat a message just for the sake of being cool.
 
 ## Weaknesses
 * My personal recognition. 
   * I usually put people's achievements over mine, to the point that I rarely take credit for my achievements.
 * Clarity sharing strategies orally. 
   * Speaking, I could look messy even if my proposal is evident in my brain. I tend to write a lot because this process helps me organize the pitch. (if you see long agendas, don't worry is more a script than something for you).
-  * I provide too much context before going to the point in some cases.
+  * In some cases I provide too much context before going to the point.
   * I use too much "I don't know" when in fact, I know.
   * Being a non-English speaker doesn't help here.
+* Networking.
+  * It used to be a strength, but with age, I tend to valuate focus time which collides with the creation of bonds across teams/organizations. Now it's conscious and planned action.
 * English.
   * As a non-English native speaker in some cases my vocabulary is very simple and my perspectives could sound a bit opinionated.
 
@@ -42,8 +48,8 @@ I like people and technology. Being an engineer manager combines both. We're com
 We will have a  1:1 every week for at least 30 minutes. 
 * These meetings are for you first, and me second
 * These are not status meetings unless you want them to be. I prefer offline status reports
-* We both can add topics to the agenda, you have priority. We should add talking points prior to each meeting
-* Focus of this meeting: Help, get context, resolve issues (blockers), and grow career
+* We both can add topics to the agenda, you have priority. We should add talking points before each meeting
+* Focus of this meeting: Help, get context, resolve issues (blockers), and career growth
   * Personal connection
   * How you're feeling at work
   * Feedback (you and them)
@@ -57,10 +63,10 @@ Do not wait if you have something urgent. Slack me immediately, and we will get 
 
 ## Communication
 In order of preference:
-* face to face
-* face to face in zoom
+* Face-to-face
+* Face-to-face in zoom
 * Slack
-* other
+* Other
 
 Probably we're in different time zones, so my answer won't be instant in Slack or emails.
 
@@ -74,16 +80,17 @@ Probably we're in different time zones, so my answer won't be instant in Slack o
 ## My Calendar
 Public and available, and my business hours too. 
 Feel free to set up a 1:1 or to invite me to a meeting, if I can't I'll say "no" or reschedule.
-I'm in Europe and for most of my career, I worked with different time zones, mostly us-west, which means a 9hs shift. I learned to work in this environment (async, write, be clear, give context, consistent, etc)... but in some cases meetings are necessary.
+Our shared Google Calendar appointments are editable by default, feel free to reschedule.
+I'm in Europe and for most of my career, I worked with different time zones, primarly us-west, which means a 9hs shift. I learned to work in this environment (async, write, be clear, give context, consistent, etc)... but in some cases meetings are necessary.
 
 **Wednesday I work until 12:00 Pacific time (PST), please use my time wisely**
 
-[Time zones comparison](https://www.worldtimebuddy.com/?pl=1&lid=3128760,8,5&h=3128760&hf=0) 
+[Time zones comparison]([https://www.worldtimebuddy.com/?pl=1&lid=3128760,8,5&h=3128760&hf=0](https://www.worldtimebuddy.com/?pl=1&lid=5,8,3128760,30,2193733&h=3128760&hf=0)) 
 
 ## Feeback
 I like receiving it in any form, at any time.
 
-I like giving it, and it's also part of my role. Always assume best intentions from me, giving feedback is hard and it takes time, if I do it is because I care about you.
+I like giving it, and it's also part of my role. Always assume the best intentions from me. Giving feedback is hard and takes time, if I do it is because I care about you.
 
 Please be timely with feedback because I'll try to take action asap or enjoy it asap. :)
 
