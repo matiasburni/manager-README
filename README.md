@@ -85,9 +85,9 @@ I'm in Europe and for most of my career, I worked with different time zones, pri
 
 **Wednesday I work until 12:00 Pacific time (PST), please use my time wisely**
 
-[Time zones comparison]([https://www.worldtimebuddy.com/?pl=1&lid=3128760,8,5&h=3128760&hf=0](https://www.worldtimebuddy.com/?pl=1&lid=5,8,3128760,30,2193733&h=3128760&hf=0)) 
+[Time zones comparison](https://www.worldtimebuddy.com/?pl=1&lid=5,8,3128760,30,2193733&h=3128760&hf=0)
 
-## Feeback
+## Feedback
 I like receiving it in any form, at any time.
 
 I like giving it, and it's also part of my role. Always assume the best intentions from me. Giving feedback is hard and takes time, if I do it is because I care about you.
