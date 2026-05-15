@@ -4,7 +4,9 @@ Hey there... If you're reading this, you probably worked/work/will-work with me,
 Feel free to ping me on [Twitter](https://twitter.com/matiasburni) or [Linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
 
 ## About Me
-I'm Matias. I'm from Argentina, and I'm married; I have three kids, I live in Barcelona (Spain), I'm a software engineer (more console than dev, build/release engineer, or DevOps kind). I like [padel](https://www.youtube.com/watch?v=RGUOHfNaoco&ab_channel=WorldPadelTour) and mountain bike... A frustrated [squash](https://www.youtube.com/watch?v=nTcvGK3k1IQ&ab_channel=PSASQUASHTV) player. I speak Spanish/English/French, and I'm learning Catalan. I'm not an native English speaker, so please be patient; corrections are accepted (this is how I grow). I'm an extrovert, but lately, with age, I have become more selective with people in my personal life.
+I'm Matias. I'm from Argentina, married, with three kids, living in Barcelona (Spain). I'm a software engineer by trade (more console than dev — build/release, DevOps kind) and a consolidated Sr Engineering Manager with deep experience in observability and automation. I managed integrations teams for 3 years, and across my career I've worked closely with diverse cultures — India, China, US, EU, South America. I know how to operate inside top-tier tech companies and I adapt well to complex, ambiguous scenarios.
+
+Outside of work, I like [padel](https://www.youtube.com/watch?v=RGUOHfNaoco&ab_channel=WorldPadelTour) and mountain bike... a frustrated [squash](https://www.youtube.com/watch?v=nTcvGK3k1IQ&ab_channel=PSASQUASHTV) player. I speak Spanish/English/French, and I'm learning Catalan. I'm not a native English speaker, so please be patient — corrections welcome, that's how I grow. I'm an extrovert, but with age I've become more selective with people in my personal life.
 
 ## My Values & Principles
 **Default to action**. 
@@ -45,21 +47,14 @@ I prefer written ideas, it gives me time to think more deeply. My brain is a sto
   * As a non-English native speaker in some cases my vocabulary is very simple and my perspectives could sound a bit opinionated.
 
 ## Our Average Week
-We will have a  1:1 every week for at least 30 minutes. 
-* These meetings are for you first, and me second
-* These are not status meetings unless you want them to be. I prefer offline status reports
-* We both can add topics to the agenda, you have priority. We should add talking points before each meeting
-* Focus of this meeting: Help, get context, resolve issues (blockers), and career growth
-  * Personal connection
-  * How you're feeling at work
-  * Feedback (you and them)
-  * Improving team/company
-  * Learning/growth
-  * Work engagement
-  * Questions or information you need
-* Note: [200 One-On-One Meeting Questions for Managers](https://fellow.app/blog/2019/one-on-one-meeting-questions-for-managers/)
+We'll have a weekly 1:1 of at least 30 minutes. It's your meeting first, mine second.
 
-Do not wait if you have something urgent. Slack me immediately, and we will get on a video call
+* Not a status meeting (I prefer status async/written) — unless you want it to be.
+* Shared agenda, your topics have priority. Add talking points beforehand.
+* Typical focus: blockers, context, feedback, growth, how you're feeling.
+* Need something urgent? Don't wait for the 1:1 — Slack me and we'll jump on a call.
+
+Reference if you ever run out of ideas: [200 One-on-One Questions](https://fellow.app/blog/2019/one-on-one-meeting-questions-for-managers/).
 
 ## Communication
 In order of preference:
@@ -85,54 +80,20 @@ I'm in Europe and for most of my career, I worked with different time zones, pri
 
 **Wednesday I work until 12:00 Pacific time (PST), please use my time wisely**
 
-[Time zones comparison]([https://www.worldtimebuddy.com/?pl=1&lid=3128760,8,5&h=3128760&hf=0](https://www.worldtimebuddy.com/?pl=1&lid=5,8,3128760,30,2193733&h=3128760&hf=0)) 
+[Time zones comparison](https://www.worldtimebuddy.com/?pl=1&lid=5,8,3128760,30,2193733&h=3128760&hf=0)
 
-## Feeback
+## Feedback
 I like receiving it in any form, at any time.
 
-I like giving it, and it's also part of my role. Always assume the best intentions from me. Giving feedback is hard and takes time, if I do it is because I care about you.
+I like giving it, and it's also part of my role. Always assume the best intentions from me. Giving feedback is hard and takes time — if I do it, it's because I care about you.
 
-Please be timely with feedback because I'll try to take action asap or enjoy it asap. :)
+Please be timely with feedback so I can act on it (or enjoy it) asap. :)
+
+A note on how I work: I use AI to process notes, summarize, and stress-test ideas — it helps me think faster and write better. But I'm the decision maker. I'm not led by AI; I use it as a tool to sharpen my own judgment, not to replace it.
 
 ## Birkman Report
 
-[Complete report](Birkman_report.pdf)
-
-SOCIAL ENERGY
-* sociable, communicative, at ease in groups
-* Stress Reactions: withdrawal, over-eagerness to please the group
-
-PHYSICAL ENERGY
-* enthusiastic, energetic, forceful
-* Stress Reactions: edginess, feeling fatigued
-
-EMOTIONAL ENERGY
-* practical, logical, objective
-* Stress Reactions: detachment, getting discouraged
-
-SELF-CONSCIOUSNESS
-* frank and direct, unevasive, matter-of-fact
-* Stress Reactions: embarrassment, shyness, over-sensitivity
-
-ASSERTIVENESS
-* balance of assertion and discussion, authoritative yet agreeable, moderate in handling authority
-* Stress Reactions: becoming argumentative, feelings of intimidation
-
-INSISTENCE
-* alert to new ideas, combines initiative with procedure, self-starting but adaptable
-* Stress Reactions: resistance to routine, neglect of detail, weakened follow-through
-
-INCENTIVES
-* trustful, loyal, service-oriented
-* Stress Reactions: becoming distrustful, becoming impractical
-
-RESTLESSNESS
-* easy to stimulate, responsive and attentive, adaptive
-* Stress Reactions: annoyance at delays, problems with self-discipline, inability to concentrate
-
-THOUGHT
-* direct and to-the-point, decisive, matter-of-fact
-* Stress Reactions: tendency to over-simplify, fear of making mistakes
+If you want a deeper look at how I tick under normal conditions and under stress: [Complete report](Birkman_report.pdf).
 
 
 ## Did you like it?
