@@ -3,6 +3,8 @@ Hey there... If you're reading this, you probably worked/work/will-work with me,
 
 Feel free to ping me on [Twitter](https://twitter.com/matiasburni) or [Linkedin](https://www.linkedin.com/in/matiasburni/?locale=en_US).
 
+You can also find my [resume](resume.md).
+
 ## About Me
 I'm Matias. I'm from Argentina, married, with three kids, living in Barcelona (Spain). I'm a software engineer by trade (more console than dev — build/release, DevOps kind) and a consolidated Sr Engineering Manager with deep experience in observability and automation. I managed integrations teams for 3 years, and across my career I've worked closely with diverse cultures — India, China, US, EU, South America. I know how to operate inside top-tier tech companies and I adapt well to complex, ambiguous scenarios.
 
