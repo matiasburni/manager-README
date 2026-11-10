@@ -1,24 +1,29 @@
 <!-- markdownlint-disable MD041 MD036 -->
 
-**Matias Burni — Spain — [linkedin.com/in/matiasburni](https://linkedin.com/in/matiasburni)**
+**Matias Burni — Spain — [linkedin.com/in/matiasburni](https://linkedin.com/in/matiasburni) — [Manager README](README.md)**
 
 Engineering leader with 10+ years of experience scaling platform organizations through major technological transitions. Led organizations of up to 35 engineers and managers, managed $1M+ annual budgets, and delivered AI-powered platform transformations at scale. Experience supporting 200,000+ customers, billions of API transactions per month, 8,000+ integrations, and products influencing more than $300M in annual revenue.
 
 **Core Skills**
 
-Engineering Leadership, Platform Strategy, AI Product Development, Integrations & APIs, Developer Platforms, Technical Program Management, Organizational Design, Reliability Engineering, Incident Management, Budget & Headcount Planning, Developer Experience, Cross-Functional Leadership, Vendor Management, Open Source Strategy
+Engineering Leadership, Platform Strategy, AI Agents, AI Product Development, Integrations & APIs, Developer Platforms, Technical Program Management, Organizational Design, Reliability Engineering, Incident Management, Observability, Budget & Headcount Planning, Developer Experience, Cross-Functional Leadership, Vendor Management, Open Source Strategy
 
 **Work Experience**
 
 **Senior Engineering Manager — Zapier | 2025 - Present**
 
-Leading Zapier's integrations organization and company-wide incident management program, supporting the company's transition toward AI-native products and development workflows.
+Leading Zapier's AI Enablement zone (Integrations Platform + Scout), the company-wide incident management program, and the observability initiative, supporting the company's transition toward AI-native products and development workflows.
 
 - Led Scout, an AI agent that autonomously creates, expands, validates, and maintains integrations, reducing delivery timelines from weeks to approximately one day
+- Defined Scout's success metrics (reach, team velocity, speed and quality, including rework rate and engineer confidence) and the governance path toward an autonomous develop-test-release-fix loop
+- Led the merger of Integration Foundations and Scout into the AI Enablement zone, unifying service ownership, tooling, rituals, and planning
+- Led AI Guardrails by Zapier (AWS Comprehend and Bedrock), from action design, including a single prompt-attack detection action, through security review and launch
 - Led organizations of up to 35 engineers and managers across Integrations, Developer Platform, and Ingestion, including direct management of up to 4 Engineering Managers
 - Provided leadership across up to 7 engineering teams during periods of growth and organizational change
 - Co-managed organizational planning and owned approximately $1M annually across contractors and strategic tooling investments
 - Led Zapier's company-wide incident management program, defining strategy, processes, training, and tooling supporting 100+ incidents per quarter
+- Own the observability initiative focused on reducing incident time-to-detect; every postmortem now creates a follow-up that automates the missing alert
+- Redesigning Incident Commander on-call schedules so each timezone stays within working hours, including expanded APAC coverage
 - Participated in annual planning, budget allocation, headcount strategy, and executive roadmap discussions
 - Hired engineers, managers, and cross-functional leaders across multiple organizations
 - Led adoption of AI-assisted development practices and AI integration strategy, partnering with OpenAI, Anthropic, Google, and other leading providers
